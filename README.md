@@ -16,3 +16,12 @@ The 2 leds are replaced by an M5Stack Unit 8Encoder connected to Grove Port A, u
 <https://docs.m5stack.com/en/unit/8Encoder>
 + Function 1 (SLS_Function_1) sets all 8 RGB Leds on the Unit 8Encoder Green & also gets the switch state
 + Function 2 (SLS_Function_2) sets all 8 RGB Leds on the Unit 8Encoder Blue & also gets the switch state
+
+
+### To-Do
+- [ ] Confirm I2C implementation used in "SLS-M5-Template-v1.0"
+- [ ] TBC
+- [ ] TBC
+- [ ] TBC
+- [ ] TBC
+- [ ] TBC
