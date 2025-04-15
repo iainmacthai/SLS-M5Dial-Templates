@@ -2,8 +2,8 @@
 This is the most Basic Template.
 
 It Consists of a single screen UI on the M5Dial that has two buttons that call 2 sepearte functions.
-+ Function 1 Blinks an LED on M5Dial Grove PortB GPIO-1
-+ Function 2 Blinks an LED on M5Dial Grove PortB GPIO-2
++ Function 1 (SLS_Function_1) Blinks an LED on M5Dial Grove PortB GPIO-1
++ Function 2 (SLS_Function_2) Blinks an LED on M5Dial Grove PortB GPIO-2
 
 ******************************************************************************
 
