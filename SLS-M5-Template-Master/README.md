@@ -1,7 +1,4 @@
-# SLS-M5Dial-Templates
-A Series Of Basic Templates for Squareline Studio UI with M5Stack Dial
-
-## SLS-M5-Template-Master
+# SLS-M5-Template-Master
 This is the most Basic Template.
 
 It Consists of a single screen UI on the M5Dial that has two buttons that call 2 sepearte functions.
